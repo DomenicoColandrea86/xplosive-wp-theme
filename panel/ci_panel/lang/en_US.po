@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Panel\n"
+"POT-Creation-Date: 2012-10-04 16:48+0200\n"
+"PO-Revision-Date: 2012-10-04 16:49+0200\n"
+"Last-Translator: Gerasimos Tsiamalos <info@cssigniter.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../ci_panel.php:67
+msgid "Theme Settings"
+msgstr ""
+
+#: ../ci_panel.php:83
+#, php-format
+msgid ""
+"A theme update is available. The latest version is <b>%1$s</b> and you are "
+"running <b>%2$s</b>"
+msgstr ""
+
+#: ../ci_panel.php:99
+msgid "Settings reset!"
+msgstr ""
+
+#: ../ci_panel.php:103 ../ci_panel.php:138
+msgid "Save Changes"
+msgstr ""
+
+#: ../ci_panel.php:145
+msgid "Reset Settings"
+msgstr ""
+
+#: ../ci_panel.php:145
+msgid "Are you sure? All settings will be lost!"
+msgstr ""
+
+#: ../ci_panel.php:269
+msgid "Upload image"
+msgstr ""
+
+#: ../snippets/buysellads.php:25
+msgid ""
+"Paste here your BuySellAds.com code, as given by the BSA website, and it "
+"will be automatically included on every page. Then use our BSA Widget for "
+"your sidebar code."
+msgstr ""
+
+#: ../snippets/buysellads.php:26
+msgid "BuySellAds.com Code"
+msgstr ""
+
+#: ../snippets/comments.php:34
+msgid ""
+"You can disable comments specifically for <b>Pages</b>. This is usually "
+"preferred as pages traditionally hold static, presentational content. When "
+"checked, <b>all</b> pages will <b>not</b> have comments, overriding each "
+"page's setting. <br />When You can also enable and disable the \"Comments "
+"are closed\" message displayed on the bottom of each post/page/etc when the "
+"comments are closed. This applies everywhere."
+msgstr ""
+
+#: ../snippets/comments.php:36
+msgid "Disable comments for pages"
+msgstr ""
+
+#: ../snippets/comments.php:37
+msgid "Show \"Comments are closed\" message"
+msgstr ""
+
+#: ../snippets/custom_background.php:65
+msgid ""
+"Control whether you want to override the theme's background, by enabling the "
+"custom background option and tweaking the rest as you please."
+msgstr ""
+
+#: ../snippets/custom_background.php:69
+msgid "Disable custom background"
+msgstr ""
+
+#: ../snippets/custom_background.php:76
+msgid ""
+"You can set the background color of the page here. This option overrides the "
+"background color set by the Color Scheme Option above, so leave it empty if "
+"you want the default. You may select a color using the color picker (pops up "
+"when you click on the input box), or enter its hex number in the input box "
+"(without a #)."
+msgstr ""
+
+#: ../snippets/custom_background.php:78
+msgid "Background Color"
+msgstr ""
+
+#: ../snippets/custom_background.php:83
+msgid ""
+"When this option is checked, the body background image is disabled, whether "
+"it's set by the default stylesheets or by you, from the option below."
+msgstr ""
+
+#: ../snippets/custom_background.php:85
+msgid "Disable background image"
+msgstr ""
+
+#: ../snippets/custom_background.php:90
+msgid ""
+"You can upload an image to use as custom background for your site. You can "
+"also choose whether you want the image to repeat."
+msgstr ""
+
+#: ../snippets/custom_background.php:91
+msgid "Upload your background image"
+msgstr ""
+
+#: ../snippets/custom_background.php:95
+msgid "No Repeat"
+msgstr ""
+
+#: ../snippets/custom_background.php:96
+msgid "Repeat"
+msgstr ""
+
+#: ../snippets/custom_background.php:97
+msgid "Repeat X"
+msgstr ""
+
+#: ../snippets/custom_background.php:98
+msgid "Repeat Y"
+msgstr ""
+
+#: ../snippets/custom_background.php:100
+msgid "Repeat background"
+msgstr ""
+
+#: ../snippets/custom_background.php:106
+msgid "You can select the placement of your image in the background."
+msgstr ""
+
+#: ../snippets/custom_background.php:110
+#: ../snippets/featured_image_single.php:65
+msgid "Left"
+msgstr ""
+
+#: ../snippets/custom_background.php:111 ../snippets/custom_background.php:122
+#: ../snippets/featured_image_single.php:66
+msgid "Center"
+msgstr ""
+
+#: ../snippets/custom_background.php:112
+#: ../snippets/featured_image_single.php:67
+msgid "Right"
+msgstr ""
+
+#: ../snippets/custom_background.php:114
+msgid "Background Horizontal Placement"
+msgstr ""
+
+#: ../snippets/custom_background.php:121
+msgid "Top"
+msgstr ""
+
+#: ../snippets/custom_background.php:123
+msgid "Bottom"
+msgstr ""
+
+#: ../snippets/custom_background.php:125
+msgid "Background Vertical Placement"
+msgstr ""
+
+#: ../snippets/custom_background.php:131
+msgid ""
+"When the fixed background option is checked, the background image will not "
+"scroll along with the rest of the page."
+msgstr ""
+
+#: ../snippets/custom_background.php:133
+msgid "Fixed background"
+msgstr ""
+
+#: ../snippets/custom_css.php:28
+msgid "Paste here any custom CSS code you might have."
+msgstr ""
+
+#: ../snippets/custom_css.php:29
+msgid "CSS Code"
+msgstr ""
+
+#: ../snippets/excerpt.php:71
+msgid ""
+"You can select whether you want the Content or the Excerpt to be displayed "
+"on listing pages."
+msgstr ""
+
+#: ../snippets/excerpt.php:72
+msgid "Use the following on listing pages"
+msgstr ""
+
+#: ../snippets/excerpt.php:73
+msgid "Use the Content"
+msgstr ""
+
+#: ../snippets/excerpt.php:74
+msgid "Use the Excerpt"
+msgstr ""
+
+#: ../snippets/excerpt.php:76
+msgid ""
+"You can set what the Read More text will be. This applies to both the "
+"Content and the Excerpt."
+msgstr ""
+
+#: ../snippets/excerpt.php:77
+msgid "Read More text"
+msgstr ""
+
+#: ../snippets/excerpt.php:79
+msgid ""
+"You can define how long the Excerpt will be (in words). You can also set the "
+"text that appears when the excerpt is auto-generated and is automatically "
+"cut-off. These options only apply to the Excerpt."
+msgstr ""
+
+#: ../snippets/excerpt.php:80
+msgid "Excerpt length (in words)"
+msgstr ""
+
+#: ../snippets/excerpt.php:81
+msgid "Excerpt auto cut-off text"
+msgstr ""
+
+#: ../snippets/favicon.php:22
+msgid ""
+"Here you can upload your favicon. The favicon is a small, 16x16 icon that "
+"appears besides your URL in the address bar, in open tabs and/or in "
+"bookmarks. We recommend you create your favicon from an existing square "
+"image, using appropriate online services such as http://tools.dynamicdrive."
+"com/favicon/ and http://www.favicon.cc/"
+msgstr ""
+
+#: ../snippets/favicon.php:23
+msgid "Upload your favicon"
+msgstr ""
+
+#: ../snippets/featured_image_single.php:47
+#, php-format
+msgid ""
+"Control whether you want the featured image of each post to be displayed "
+"when viewing that post's page. The featured image can be shown/hidden on "
+"each individual post type, with common dimentions. You can define its width "
+"and height <em>(defaults to the content width, currently: %d pixels)</em>, "
+"and whether you want it aligned on the left, right or middle of the page."
+msgstr ""
+
+#: ../snippets/featured_image_single.php:48
+msgid ""
+"Note that if you change the width and/or the height of the featured images, "
+"you will need to regenerate all your thumbnails using an appropriate plugin, "
+"such as the <a href=\"http://wordpress.org/extend/plugins/regenerate-"
+"thumbnails/\" target=\"_blank\">Regenerate Thumbnails</a> plugin, otherwise "
+"your images may appear distorted."
+msgstr ""
+
+#: ../snippets/featured_image_single.php:56
+#, php-format
+msgid "Show featured images on <em>%s</em>"
+msgstr ""
+
+#: ../snippets/featured_image_single.php:60
+msgid "Featured image Width"
+msgstr ""
+
+#: ../snippets/featured_image_single.php:61
+msgid "Featured image Height"
+msgstr ""
+
+#: ../snippets/featured_image_single.php:64
+msgid "None"
+msgstr ""
+
+#: ../snippets/featured_image_single.php:69
+msgid "Featured image alignment"
+msgstr ""
+
+#: ../snippets/feedburner.php:42
+msgid ""
+"By adding your FeedBurner URL here, your main feed will be served by "
+"FeedBurner instead of your Wordpress site."
+msgstr ""
+
+#: ../snippets/feedburner.php:43
+msgid "FeedBurner Feed URL"
+msgstr ""
+
+#: ../snippets/google_analytics.php:22
+msgid ""
+"Paste here your Google Analytics Code, as given by the Analytics website "
+"(including the <b>&lt;script&gt;</b> and <b>&lt;/script&gt;</b> tags), and "
+"it will be automatically included on every page."
+msgstr ""
+
+#: ../snippets/google_analytics.php:23
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../snippets/logo.php:11
+msgid ""
+"Upload your logo here. It will replace the textual logo (site name) on the "
+"header."
+msgstr ""
+
+#: ../snippets/logo.php:12
+msgid "Upload your logo"
+msgstr ""
+
+#: ../snippets/sample_content.php:10
+#, php-format
+msgid ""
+"You can download sample content to help you get things started with this "
+"theme. You need to unzip the downloaded file, and then upload the resulting "
+"XML file via <a href=\"%s\">Tools -> Import -> WordPress</a>. Please note "
+"that the images imported with the sample content are licensed, and therefore "
+"you are not allowed to use or redistribute them."
+msgstr ""
+
+#: ../snippets/sample_content.php:11
+msgid "Download sample content"
+msgstr ""
+
+#: ../snippets/seo.php:103
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../snippets/seo.php:116
+msgid ""
+"Select how you want the &lt;title> tag handled. \"<b>Automatic title</b>\" "
+"checks a list of known SEO plugins and behaves accordingly. This is the "
+"recommended setting if the SEO plugin you use is detected properly."
+msgstr ""
+
+#: ../snippets/seo.php:117
+msgid ""
+"\"<b>Use the theme's default title</b>\" gives a good result if you don't "
+"have a SEO plugin installed."
+msgstr ""
+
+#: ../snippets/seo.php:118
+msgid ""
+"\"<b>Use pure WordPress function</b>\" should only be used if you have a SEO "
+"plugin installed that isn't detected, and the plugin's documentation "
+"suggests to change the title tag function to <b>wp_title('');</b> . In that "
+"case, you don't need to edit any files, just select this option."
+msgstr ""
+
+#: ../snippets/seo.php:125
+msgid "A known SEO plugin could not be detected."
+msgstr ""
+
+#: ../snippets/seo.php:128
+#, php-format
+msgid ""
+"The <b>%s</b> plugin was detected. Please use the <b>Automatic title</b> "
+"setting."
+msgstr ""
+
+#: ../snippets/seo.php:133
+msgid "Use the following on the &lt;title> tag"
+msgstr ""
+
+#: ../snippets/seo.php:134
+msgid "Automatic title"
+msgstr ""
+
+#: ../snippets/seo.php:135
+msgid "Use the theme's default title"
+msgstr ""
+
+#: ../snippets/seo.php:136
+msgid "Use pure WordPress function ( wp_title('') )"
+msgstr ""
+
+#: ../snippets/seo.php:139
+msgid ""
+"The title separator is inserted between various elements within the title "
+"tag of each page. Leading and trailing spaces are automatically inserted "
+"where appropriate. This only applies when the option \"Use the theme's "
+"default title\" above is selected."
+msgstr ""
+
+#: ../snippets/seo.php:141
+msgid "Title separator"
+msgstr ""
+
+#: ../snippets/social.php:26
+msgid "Subscribe to our RSS feed."
+msgstr ""
+
+#: ../snippets/social.php:30
+msgid "Follow us on twitter."
+msgstr ""
+
+#: ../snippets/social.php:34
+msgid "Check out our videos on YouTube."
+msgstr ""
+
+#: ../snippets/social.php:38
+msgid "Listen to our music on MySpace."
+msgstr ""
+
+#: ../snippets/social.php:42
+msgid "Like us on Facebook."
+msgstr ""
+
+#: ../snippets/social.php:46
+msgid "Join our circle in Google+"
+msgstr ""
+
+#: ../snippets/social.php:50
+msgid "Let's meet in LinkedIn"
+msgstr ""
+
+#: ../snippets/social.php:54
+msgid "See our pinboards on Pinterest"
+msgstr ""
+
+#: ../snippets/social.php:58
+msgid "See our photos on Flickr"
+msgstr ""
+
+#: ../snippets/social.php:62
+msgid "Visit our Wordpress.com blog"
+msgstr ""
+
+#: ../snippets/social.php:66 ../snippets/social.php:70
+msgid "See our Dribbble shots."
+msgstr ""
+
+#: ../snippets/social.php:74
+msgid "See our photos on Picasa."
+msgstr ""
+
+#: ../snippets/social.php:80
+msgid ""
+"Enter the URLs of your accounts on the following social media websites. The "
+"relevant icons will be displayed wherever you place the included -=CI "
+"SOCIAL=- widget. Unchecking and/or leaving an empty URL will hide the "
+"associated icon."
+msgstr ""
+
+#: ../snippets/social.php:85
+msgid "Enable RSS icon"
+msgstr ""
+
+#: ../snippets/social.php:89
+msgid "RSS Text"
+msgstr ""
+
+#: ../snippets/social.php:103
+msgid "Enable "
+msgstr ""
+
+#: ../snippets/social.php:106
+msgid " URL"
+msgstr ""
+
+#: ../snippets/social.php:110
+msgid " Text"
+msgstr ""
+
+#: ../snippets/touch_favicon.php:31
+msgid ""
+"Touch Icons are the icons used in mobiles devices such as iOS and Android "
+"phones and tablets. You can upload images optimized for each category of "
+"devices. The images should be in PNG format. You can set each image as "
+"\"precomposed\" so that the mobile devices will not apply any visual effects "
+"to the icons."
+msgstr ""
+
+#: ../snippets/touch_favicon.php:33
+msgid ""
+"Upload your touch icon (57x57px, non-Retina iPhone, iPod Touch, Android 2.1+)"
+msgstr ""
+
+#: ../snippets/touch_favicon.php:34 ../snippets/touch_favicon.php:37
+#: ../snippets/touch_favicon.php:40
+msgid "Precomposed"
+msgstr ""
+
+#: ../snippets/touch_favicon.php:36
+msgid "Upload your touch icon (72x72px, 1st generation iPad)"
+msgstr ""
+
+#: ../snippets/touch_favicon.php:39
+msgid "Upload your touch icon (114x114px, iPhone 4+, Retina display)"
+msgstr ""
